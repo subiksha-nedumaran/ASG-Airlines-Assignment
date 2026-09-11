@@ -232,6 +232,7 @@ Extreme duration anomalies: 0
 | Invalid / missing payments       |     78 |
 
 ##11. Gold Data Model
+
 Fact Tables
 fact_flights
 
@@ -249,7 +250,6 @@ duration_minutes
 is_overnight
 duration_corrected
 duration_anomaly
-fact_bookings
 
 Contains booking-level analytical information.
 
@@ -277,7 +277,8 @@ dim_route – 30 routes
 dim_airline – 6 airlines
 dim_date – 369 dates
 dim_passenger – protected passenger information
-Power BI Relationships
+
+Power BI Relationships:
 fact_flights[flight_id]
         1
         |
@@ -289,6 +290,7 @@ fact_bookings[booking_id]
         1
         |
         *
+fact_payments[booking_id]
 fact_payments[booking_id]
 
 ##12. Privacy Protection
@@ -436,4 +438,3 @@ ASG-Airlines-Assignment/
 ├── dashboard_page3.jpg
 ├── dashboard_page4.jpg
 └── final_summary.jpg
-
