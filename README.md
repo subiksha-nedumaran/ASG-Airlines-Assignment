@@ -418,23 +418,20 @@ The current implementation is a working case-study implementation using Databric
 ##18. Repository Contents
 
 ASG-Airlines-Assignment/
-│
-├── README.md
-├── ASGairlinespipeline.ipynb
-├── ASGAirlinesdashboard find.pbix
-│
-├── fact_flights.csv
-├── fact_bookings.csv
-├── fact_payments.csv
-├── dim_route.csv
-├── dim_airline.csv
-├── dim_date.csv
-├── dim_passenger.csv
-├── kpi_summary.csv
-├── quality_summary.csv
-│
-├── dashboard_page1.jpg
-├── dashboard_page2.jpg
-├── dashboard_page3.jpg
-├── dashboard_page4.jpg
-└── final_summary.jpg
+  README.md
+  ASGairlinespipeline.ipynb
+  ASGAirlinesdashboard find.pbix
+  fact_flights.csv
+  fact_bookings.csv
+  fact_payments.csv
+  dim_route.csv
+  dim_airline.csv
+  dim_date.csv
+  dim_passenger.csv
+  kpi_summary.csv
+  quality_summary.csv
+  dashboard_page1.jpg
+  dashboard_page2.jpg
+  dashboard_page3.jpg
+  dashboard_page4.jpg
+  final_summary.jpg
