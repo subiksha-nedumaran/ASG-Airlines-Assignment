@@ -414,6 +414,7 @@ Power BI Service for report distribution.
 The current implementation is a working case-study implementation using Databricks Free Edition.
 
 ##18. Repository Contents
+
 ASG-Airlines-Assignment/
 │
 ├── README.md
