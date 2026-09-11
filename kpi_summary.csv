@@ -1,0 +1,2 @@
+total_flights,total_routes,total_airlines,average_flight_duration_minutes,overnight_flights,extreme_duration_anomalies,duration_corrections,total_bookings,confirmed_bookings,cancelled_bookings,pending_bookings,unknown_bookings,valid_payments,invalid_or_missing_payments,total_revenue,average_payment_amount
+1004,30,6,164.54,122,0,1,1000,320,314,291,75,922,78,7385142.98,8009.92

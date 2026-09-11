@@ -1,0 +1,7 @@
+airline,total_flights,avg_duration_minutes,overnight_flights,airline_rank
+AIR INDIA,247,165.17,31,2
+AIRLINE 6F,12,134.5,2,6
+INDIGO,249,167.7,30,1
+SPICEJET,241,163.64,28,3
+UNKNOWN,29,158.72,4,5
+VISTARA,226,163.67,27,4

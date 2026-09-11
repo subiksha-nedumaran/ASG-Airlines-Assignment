@@ -1,0 +1,12 @@
+metric,value
+invalid_flight_ids,0
+duplicate_flight_rows_removed,16
+duration_corrections,1
+negative_duration_issues_initial,1
+duration_mismatches_initial,1
+extreme_duration_anomalies,0
+overnight_flights,122
+missing_booking_status_resolved,45
+invalid_booking_status_resolved,30
+missing_passenger_last_names_resolved,10
+missing_or_invalid_payment_amounts,78
